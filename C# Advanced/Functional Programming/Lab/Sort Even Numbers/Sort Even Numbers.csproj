@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Sort_Even_Numbers</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\anton\Програмиране\C# Advance\C# Advanced\Functional Programming\Lab\Sort Even Numbers.cs" Link="Sort Even Numbers.cs" />
+  </ItemGroup>
+
+</Project>
