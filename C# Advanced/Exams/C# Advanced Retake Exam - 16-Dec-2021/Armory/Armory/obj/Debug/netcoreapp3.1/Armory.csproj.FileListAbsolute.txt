@@ -1,0 +1,14 @@
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\bin\Debug\netcoreapp3.1\Armory.exe
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\bin\Debug\netcoreapp3.1\Armory.deps.json
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.json
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.dev.json
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\bin\Debug\netcoreapp3.1\Armory.dll
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\bin\Debug\netcoreapp3.1\Armory.pdb
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.AssemblyReference.cache
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.CoreCompileInputs.cache
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.dll
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.pdb
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Armory\Armory\obj\Debug\netcoreapp3.1\Armory.genruntimeconfig.cache
