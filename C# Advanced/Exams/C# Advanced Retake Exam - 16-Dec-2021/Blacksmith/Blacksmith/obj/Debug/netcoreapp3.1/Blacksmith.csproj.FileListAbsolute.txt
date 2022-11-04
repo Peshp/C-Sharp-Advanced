@@ -1,0 +1,14 @@
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.exe
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.deps.json
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.json
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.dev.json
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.dll
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.pdb
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.AssemblyReference.cache
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.CoreCompileInputs.cache
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.dll
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.pdb
+D:\anton\Програмиране\C# Advance\C# Advanced\Exams\C# Advanced Retake Exam - 16-Dec-2021\Blacksmith\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.genruntimeconfig.cache
