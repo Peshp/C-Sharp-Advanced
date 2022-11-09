@@ -1,0 +1,14 @@
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Farm.exe
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Farm.deps.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Farm.runtimeconfig.dev.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Farm.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\bin\Debug\netcoreapp3.1\Farm.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.csproj.AssemblyReference.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.csproj.CoreCompileInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Hierarchical Inheritance\Hierarchical Inheritance\obj\Debug\netcoreapp3.1\Farm.genruntimeconfig.cache
