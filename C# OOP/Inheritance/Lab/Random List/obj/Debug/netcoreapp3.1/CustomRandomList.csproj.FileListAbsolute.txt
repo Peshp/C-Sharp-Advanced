@@ -1,0 +1,14 @@
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\bin\Debug\netcoreapp3.1\CustomRandomList.exe
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\bin\Debug\netcoreapp3.1\CustomRandomList.deps.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\bin\Debug\netcoreapp3.1\CustomRandomList.runtimeconfig.dev.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\bin\Debug\netcoreapp3.1\CustomRandomList.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\bin\Debug\netcoreapp3.1\CustomRandomList.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.AssemblyReference.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.csproj.CoreCompileInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Lab\Random List\Random List\obj\Debug\netcoreapp3.1\CustomRandomList.genruntimeconfig.cache
