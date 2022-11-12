@@ -1,0 +1,14 @@
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Zoo\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache
