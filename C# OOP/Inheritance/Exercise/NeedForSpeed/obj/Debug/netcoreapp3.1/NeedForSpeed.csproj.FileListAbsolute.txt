@@ -1,5 +1,0 @@
-D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.AssemblyReference.cache
-D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.GeneratedMSBuildEditorConfig.editorconfig
-D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfoInputs.cache
-D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.AssemblyInfo.cs
-D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\NeedForSpeed\NeedForSpeed\obj\Debug\netcoreapp3.1\NeedForSpeed.csproj.CoreCompileInputs.cache
