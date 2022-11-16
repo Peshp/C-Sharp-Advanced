@@ -1,0 +1,5 @@
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# OOP\Inheritance\Exercise\Restaurant\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
