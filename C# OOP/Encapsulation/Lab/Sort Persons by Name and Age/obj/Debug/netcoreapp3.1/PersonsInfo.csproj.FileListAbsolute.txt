@@ -1,0 +1,13 @@
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfoInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.AssemblyInfo.cs
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.csproj.CoreCompileInputs.cache
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\bin\Debug\netcoreapp3.1\PersonsInfo.exe
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\bin\Debug\netcoreapp3.1\PersonsInfo.deps.json
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.json
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\bin\Debug\netcoreapp3.1\PersonsInfo.runtimeconfig.dev.json
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\bin\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\bin\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.dll
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.pdb
+D:\anton\Програмиране\C# Advance\C# OOP\Encapsulation\Lab\Sort Persons by Name and Age\Sort Persons by Name and Age\obj\Debug\netcoreapp3.1\PersonsInfo.genruntimeconfig.cache
